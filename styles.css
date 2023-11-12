@@ -1,0 +1,186 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cookie&family=Pacifico&family=Roboto:wght@500&display=swap');
+h1 {
+  font-family: Arial;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+#paragraph1-id {
+  font-family: Arial;
+  text-align: justify;
+  font-weight: bold;
+  padding-left: 100px;
+  padding-right: 150px;
+  font-size: 20px;
+}
+
+#highlight-id {
+  color: red;
+}
+
+.img-small {
+  width: 320px;
+  height: 400px;
+}
+
+.image-container {
+  padding-left: 150px;
+}
+
+.body-container {
+  padding-left: 100px;
+  font-family: Arial, Helvetica;
+}
+
+#subtopic-one {
+  font-family: Arial;
+  font-size: 15px;
+  padding-left: 20px;
+  list-style: none; 
+}
+
+#subtopic-one li {
+  background-image: linear-gradient(to left bottom, rgb(209, 8, 8), rgb(218, 17, 17));
+  background-size: 20px 20px; 
+  background-repeat: no-repeat;
+  padding-left: 30px; 
+ 
+}
+#subtopic-two {
+  font-family: Arial;
+  font-size: 15px;
+  padding-left: 20px;
+  list-style: none; 
+}
+
+#subtopic-two li {
+  background-image:  linear-gradient(to left bottom, blue, blue);
+  background-size: 20px 20px; 
+  background-repeat: no-repeat;
+  padding-left: 30px;  
+}
+
+
+#paragraph2-id {
+  position: relative;
+  top: 0px;
+  
+  text-align: justify;
+  padding-left: 50px;
+  padding-right: 700px;
+  font-size: 20px;
+}
+
+#paragraph3-id {
+  text-align: justify;
+  padding-left: 50px;
+  padding-right: 700px;
+  font-size: 20px;
+}
+
+#image-four {
+  position: relative;
+  top: 80px;
+  left: 35px;
+  width: 370px;
+  height: 300px;
+}
+
+.gray-box {
+  position: absolute;
+  top:620px ;
+  left: 720px;
+  width: 450px;
+  height: 1000px;
+  background-color: rgb(204, 204, 204);
+}
+
+p {
+  font-family: Arial;
+}
+
+#paragraph4-id {
+  text-align: center;
+  font-family: Pacifico,Arial;
+  font-size: 60px;
+}
+
+#deatil-one-id {
+  position: absolute;
+  font-size: 28px;
+  top: 0px;
+  left: 180px;
+}
+
+#deatil-two-id {
+  position: absolute;
+  font-size: 15px;
+  top: 40px;
+  left: 120px;
+}
+
+#deatil-three-id {
+  position: absolute;
+  font-size: 18px;
+  top: 370px;
+  left: 140px;
+  color:dodgerblue;
+  font-family: 'Times New Roman', Times;
+}
+
+#deatil-four-id {
+  position: absolute;
+  font-size: 18px;
+  top: 400px;
+  text-align: center;
+  color: white;
+  background-color:#8fa358;
+  line-height: 40px;
+  font-family: Arial;
+  width: 450px;
+}
+
+#deatil-five-id {
+  position: absolute;
+  font-size: 18px;
+  top: 810px;
+  text-align: center;
+  color: white;
+  background-color: rgb(160, 26, 115);
+  line-height: 40px;
+  font-family: Arial;
+  width: 450px;
+}
+
+#deatil-six-id {
+  position: relative;
+  font-size: 25px;
+  top: 550px;
+  left: 100px;
+  text-align: center;
+  color: blue;
+  line-height: 40px;
+  font-family: Arial;
+  width: 220px; 
+  border: 1px solid black;
+}
+
+
+#list-one-id {
+  list-style: none;
+  position: absolute;
+  top: 450px;
+  left: 50px;
+  font-weight: bold;  
+}
+
+#list-two-id {
+  list-style: none;
+  position: relative;
+  top: 70px;
+  left: 150px;
+  font-weight: bold;
+  color:rgb(13, 13, 207);
+}
